@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/OnEl-PaPa/react-for-beginner/static/js/main.d04abc06.js",
-    "index.html": "/OnEl-PaPa/react-for-beginner/index.html",
-    "main.d04abc06.js.map": "/OnEl-PaPa/react-for-beginner/static/js/main.d04abc06.js.map"
+    "main.js": "/react-for-beginner/static/js/main.d04abc06.js",
+    "index.html": "/react-for-beginner/index.html",
+    "main.d04abc06.js.map": "/react-for-beginner/static/js/main.d04abc06.js.map"
   },
   "entrypoints": [
     "static/js/main.d04abc06.js"
